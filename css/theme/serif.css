@@ -77,6 +77,12 @@ body {
  *********************************************/
 .reveal p {
   margin: 20px 0;
+  text-align: justify;
+  line-height: 1.3; }
+
+.reveal pc {
+  margin: 20px 0;
+  text-align: center
   line-height: 1.3; }
 
 .reveal pl {
